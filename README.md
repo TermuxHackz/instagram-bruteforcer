@@ -18,7 +18,7 @@ _Bruteforcer method could take days, weeks, months, years depending on strength 
 
 > chmod +x IBF.py
 
-> python IBF.py
+> python3 IBF.py
 
 
 **NOTE**
