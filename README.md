@@ -26,6 +26,7 @@ _Bruteforcer method could take days, weeks, months, years depending on strength 
 
 # Made by AnonyminHack5
 
-# Join our WhatsApp group: https://chat.whatsapp.com/FfaBEji7JX8H84UFCSoox0
+# Join our WhatsApp group:
+https://chat.whatsapp.com/FfaBEji7JX8H84UFCSoox0
 
 Happy hacking fellow hackers
